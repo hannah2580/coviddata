@@ -1,2 +1,1 @@
-# coursework
-Covid-19 Cases and Deaths Database
+# Exploring COVID-19 Cases and Deaths Data
