@@ -14,7 +14,6 @@ The following R packages must be installed:
   gridExtra
   
 ## Files in this report   
-  Assessment 1.Rproj: RStudio Project File   
   covid_full_data.csv: Dataset used in this report
   rscript.R: RScript with all the code used 
   Quarto_report.qmd: Main Quarto Document containing written report and code
@@ -29,5 +28,4 @@ The following R packages must be installed:
     "total_deaths": Cumulative total of deaths
 
 # How to Run the Code
-  1. Open the Assessment 1.Rproj file in RStudio (automatically sets the working directory to the project folder)
-  2. Open rscript.R and run the code
+  Open rscript.R and run the code
